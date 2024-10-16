@@ -33,5 +33,4 @@ public class ErrorResponseDto {
             description = "Time representing when the error happened"
     )
     public LocalDateTime errorTime;
-
 }
